@@ -48,11 +48,12 @@ header{
 }
 
 header h1{
-  property: value;
-  text-justify: tibetan;
+  text-align: left;
+  color: rgb(255, 215, 82);
+
 }
 header h4{
-  property: value;
+    color: rebeccapurple;
   text-align: right;
 
 }
@@ -65,7 +66,7 @@ header h4{
   margin: auto;
   font-family: Arial, Helvetica, sans-serif;
   font-size:16px ;
-  color: rgb(255, 215, 82);
+  
 }
 <a{
   
